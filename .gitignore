@@ -5,6 +5,7 @@
 *.suo
 *.user
 *.sln.docstates
+*.csproj
 
 # Build results
 
@@ -147,7 +148,6 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-# Mac crap
+# Etc
 .DS_Store
 src/BorderlandsClient/App.config
-AccessKey.cs
