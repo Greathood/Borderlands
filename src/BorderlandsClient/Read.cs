@@ -3,7 +3,7 @@ using System.IO;
 using Amazon.S3;
 using Amazon.S3.Model;
 
-namespace TestAWSConsole
+namespace BorderlandsClient
 {
     class Read
     {

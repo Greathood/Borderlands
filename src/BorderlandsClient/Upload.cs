@@ -7,7 +7,7 @@ using System.IO;
 using Amazon.S3;
 using Amazon.S3.Transfer;
 
-namespace TestAWSConsole
+namespace BorderlandsClient
 {
     public class Upload
     {
